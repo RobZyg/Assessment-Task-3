@@ -223,7 +223,7 @@ https://customers.bowtiepro.com/KnowledgeBase/simpleRM/
 
 The image below illustrates the threats for distracted drivers, the hazard and the consequences. 
 
-<img src= "https://raw.githubusercontent.com/RobZyg/Assessment-Task-3/master/risks2.jpg"
+<img src= "https://raw.githubusercontent.com/RobZyg/Assessment-Task-3/master/risks2.jpg">
 CGE Academy,Threats png viewed on 10 August 2019 at https://www.cgerisk.com/knowledgebase/images/d/d7/Threats.png
 CGE Academy, Consequences png viewed on 10 August 2019 at https://www.cgerisk.com/knowledgebase/images/d/d2/Consequences.png
 
