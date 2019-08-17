@@ -227,6 +227,18 @@ The image below illustrates the threats for distracted drivers, the hazard and t
 CGE Academy,Threats png viewed on 10 August 2019 at https://www.cgerisk.com/knowledgebase/images/d/d7/Threats.png
 CGE Academy, Consequences png viewed on 10 August 2019 at https://www.cgerisk.com/knowledgebase/images/d/d2/Consequences.png
 
+The focus of our app is to introduce a preventative control to remove one of the major driver distractions, mobile phones.
+
+### Drive Clear App Development Risks
+
+To address the risks and protect the financial standing, reputation of Team Winterfell and the interests of investors, we recognise that risk management is everyone’s business, and integral to sound management and good governance of this development.
+
+The ability to effectively engage with risk requires a combination of factors, including a positive risk culture, fit for purpose software, appropriately skilled people, and learning and development opportunities to build skills.
+
+By first identifying the threats, hazards and consequences we have then put in place preventative controls to mitigate the risk strategies to recover controls to further address risks if needed.
+
+We have identified six main risks to the success of our project and the preventative and recovery controls to mitigate or remove the risks.
+
 
 ## 12.Group processes and communnications
 
