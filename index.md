@@ -37,36 +37,6 @@ Information Policy Lead
 
 In this role they are looking for an experienced policy development professional with information and data management knowledge or experience to be part of a small team.
 
-
-### <a href="https://github.com/Sakuramachi/My-Programs/blob/master/Assessment%201%20-%20Kim%20Chapman">Kim</a>
-
-Student ID: S3235809
-
-Hobbies and interests: Learning Japanese and Spanish, amateur astonomy, history, reading, gym and technology.
-Favourite TV series: Star Trek.
-Favourite film genre: Historical Drama and Sci Fi.
-Favourite book series: Lord of the Rings.
-Interesting fact about myself: I did a year of high school exchange in the city of Nagoya, Japan. The friends I made from my exchange are still close friends today.
-
-#### Profile
-
-16 Personalites.com Personality Test
-
-Here we can see that my personality outcome is the 'Advocate' or INFJ-T. What this means is that I am mostly introverted and direct most of my mental energy towards my intuitive understanding of a situation or problem more so than observing. In addition to being less assertive in my interactions with other people. What this means for my behaviour when working in my team for the assignment is that I will most likely be the 'bond' of the group.
-
-Political Compass Test
-
-As we can see from my results, I fit into the 'left/libertarian' section of the political compass. I think that what this means for my interaction with my group, is again myself acting as the common bond or the 'diplomat' As my personal and political views are overall accepting of others and I believe this is what will enable me to both co-ordinate work tasks with my team members and mediate as well.
-
-Game of Thrones House Quiz
-
-This one was just for a bit of fun, however it is still relevant to my profile. As we can see from the result, I was placed in House Stark. I feel that this is apt as my parents are both from the UK, from Northern England and Scotland to be exact. I've always felt close to my northern English/Scottish heritage. The culture and history of the Stark's and the North in Games of Thrones was largely based on the northern parts of the UK in real life. How this relates to my co-operation with my group is that I do often times use a lot of parlance and colloquialisms from the region in my speech, I need to be wary that these aren't widely understand and should stic to a more 'standardised English' when communicating with members of my group and when creating input and text for the assignments.
-
-#### Ideal job
-
-My ideal job in IT would be working within the field in the space industry, for Space Ex, the job for my ideal position is as a senior software engineer for SpaceX, developing the software for their launch systems.
-
-
 ### <a href="https://robzyg.github.io/Assignment1/">Robert</a>
 
 Student ID: S3795095
@@ -196,6 +166,8 @@ This position involves handling a large number of complaints that have been esca
 ### Team profile
 
 The diversity of backgrounds and personality types in this group make for a successful team as we can call on our different strengths to carry out the different tasks and assist other group members where needed. Together we bring together a wealth of experience and diverse knowledge. We have varied learning styles with some predominantly visual and other kinaesthetic learners, with plenty of opportunities to apply both learning styles during this project.
+
+## Project Description
 
 ## Welcome to GitHub Pages
 
