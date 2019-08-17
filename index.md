@@ -188,8 +188,28 @@ At this stage it is expected that the design of the App will occur over five sta
   4.	The fourth stage is still on the iOS platform and the App will use Bluetooth to communicate with the vehicle and know which device to turn off the notifications as it is likely (but not always which is why the above stages have been proposed) to be the driver’s device which is the reason that we want to limit distractions. The App requires the App user to set up their vehicle’s Bluetooth system through it on initial pairing. The App can then be set up to vary the level of notifications that come through the vehicle’s Bluetooth system for example all messaging notifications can be blocked but calls can be let through. Also, once the device is paired to vehicle it will activate the App and deactivate it once the Bluetooth signal is turned off by the vehicle turning off. 
   5.	The fifth stage, is to implement the App on the Android platform. This proposed to be done by incorporating each of the four stages above or any other stage identified and implemented by the Agile process during the development of the iOS App. The preference is to start on the Android platform as the second largest market share in Australia after iOS. 
 
-
 ## 8.Tools and technologies
+
+### iOS
+
+It is envisaged that the iOS App will be developed on Xcode. Although there other ways to create Apps such as Appy Pie or outsourcing development to freelance App developers given the scale of the project being not having has much resources when compared to large companies running their Apps and the constant reiterations required via the Agile model, it is considered developing the iOS App on Xcode will be appropriated. 
+
+Objective-C is the programming language used to create functionality within iPhone apps. It handles data and object manipulation. Objective-C is a derivative of the C family of languages, and is an object-oriented language. Anyone with a basic understanding of C or Java, Objective-C should be, for the most part, understand how to use Objective-C.
+Alternatively, we can create the App using the Swift language, the follow-on to Objective-C. Swift has a much friendlier syntax and a more modern feel.
+
+Xcode is available for free from Apple, but requires OS X 10.8 or later to be installed. There is no official way to run Xcode on a Windows or Linux PC. To develop iOS 10 apps, we will need Xcode 11 and the iOS 12 SDK, also available from Apple.
+While we can code completely within Xcode, it will be easier working with large chunks of code through a dedicated text editor that specialises in programming syntax. TextMate is the version that will likely be used and costs approximately 50 EUR per licence. 
+For custom art and designs for the App, we will need a program that can create vector graphics. Vector graphics scale without losing clarity, and are essential for a good-looking app. DrawBerry is a free vector graphics drawing program. 
+
+For the map at later stages of the App design, it ios expected that we will use Google Maps. However, we will need an application programming interface (API) key which requires a licence and the Maps SDK for iOS. The API key requires Google Maps APIs Premium Plan license. The cost is per usage and averages about $10 USD per 1,000 uses of the App.
+
+Also in order to distribute the App on the App Store we need to sign up for an Apple Developer account which costs $99 per year. 
+
+### Android App
+
+The Android App will be created with Android Studio which is the official Integrated Development Environment (IDE) for Android app development. Android apps can be written using Kotlin, Java, and C++ languages. Android Studio can be installed on Windows, Mac, Linux and Chrome OS devices. Android Studio is free.
+The cost for access to Google Maps will be the same as iOS.
+To publish the Android App on the Google Play, we will need a developer account which incurs a one time registration fee of $25 USD.
 
 ## 9.Testing
 
