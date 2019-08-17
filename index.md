@@ -171,21 +171,193 @@ The diversity of backgrounds and personality types in this group make for a succ
 
 ## 2.Project description
 
+The overall goal of our team is to produce a product that can reduce road accidents in Australia. To do this, we have chosen to create an app called ClearDrive. This app will block notifications on mobile devices to reduce distracted driving. It is our hope, that by doing this we can reduce the use of phone will drive, while also raising awareness about the growing issue of distracted driving. 
+In this document, we will outline exactly how we intend to build, launch and market ClearDrive into a viable product that can be downloaded by Australian drivers from all backgrounds and demographics. We will also address potential issues we anticipate with our product, and how we intend to stand out from any competing applications. 
+
 ## 3.Detailed description
+
+### Motivation
+
+Two previous team members had a very similar project, list of road toll stats, growing awareness and campaigns against texting while driving. Members of group felt strongly about this issue 
+
+While all members of our team had previously heard of the dangers of distracted driving, few of us had any sort of investment in the issue. When we were initially brought together as a team for a past project however, Team member Rob discussed his proposed project for developing a technology that could prevent needless deaths due to distracted driving. Since then, our team has worked to develop ClearDrive’s plan into what it is today. 
+
+However what first started off as a business idea soon became an issue that we all interested in being involved with. As our team did increasing research, it became clear the large impact distracted driving has on our community.  
+
+A Victorian survey of 1,742 Victorians last year by the transport Accident Commission found that one third of drivers used their phones illegally while driving. In the past decade alone, over 700 people have died in motor accidents as a direct result of distracted driving. Many members of our team were surprised by the large toll that distracted driving had, and we further looked for ways to reduce it through our project.  
+
+https://www.heraldsun.com.au/news/victoria/authorities-battling-to-tackle-distracted-drivers-turning-to-phones-while-behind-wheel/news-story/e236b70e5437259e9819f8167a0835e7
+https://www.tac.vic.gov.au/about-the-tac/media-and-events/news-and-events/2019/new-campaign-highlights-the-dangers-of-distracted
+
+### Landscape
+
+As distracted driving has been an issue for some time, there already exist multiple competing apps that look to perform a similar function to clear drive in blocking notifications. However, our research indicates that when ClearDrive is complete it will have several important advantages over such competitors. 
+
+As we explain further in our plan, our main Australian competitor is a product called TextStopper. While developed and currently available to be bought, TextStopper has various drawbacks that ClearDrive will take advantage of. Namely, TextStopper charges an installation fee, is not easily obtainable via digital download and is marketed towards companies rather than individuals. By comparison, ClearDrive will be free, easily downloadable off the app store and designed to appeal to all individuals with a car. These differences and more will be further explained in later parts of the plan. 
 
 ## 4.Aims
 
+This project aims to reduce road accidents in Australia by creating an app that can reduce distractions emanating from mobile devices. This app will function in such a way that it will prevent mobile devices being used while driving, while also blocking all incoming notifications. By removing the potential to be distracted, it is our hope that our roads will become safer.  To achieve this plan, we have broken it down into a number of achievable goals and steps which are listed below. 
+
+  1.	Research and develop the needed software required to develop the application for general use 
+  
+  2.	Design the application to be simple and user friendly, with an interactive model that can appeal to all groups 
+  3.	Plan a method to disseminate the app for public use across multiple mobile platforms 
+  
+  4.	Raise awareness and market the app to increase overall downloads and use while raising external support and investment
+  
+  5.	Work with relevant 3rd parties to develop incentives for using the app, as well as how to make use of potential legislation to increase its use. 
+
+These five goals are the foundation of this project, and while they will undoubtedly change with time as the app develops, they offer a basic outline to its future progress. Further clarification and explanation on each goal can be found below. 
+
+### Research and development
+
+Our first step in developing Clear Drive will be to conduct research into the most appropriate platforms to utilise when building it. It is imperative that the tool we select be easy to understand and usable by people with a limited background in app creation. The ideal tool would also have a function allowing multiple members of the team to work on it at once. As the platform we select will most likely be the same platform we develop in the future when our app becomes more complicated, it needs to be relatively advanced in what it allows, while also cost efficient. 
+
+
+### Interactive Design
+
+If this project is to achieve our overarching aim of reducing road accidents in Australia, then this application will need to be accessible and useable by all demographics and groups. While it’s main purpose is served while not being interacted with, the app should be easy to turn on and off. It should reflect a Spartan yet modernistic design that is inoffensive and easy to understand. As our aim is to attract as many people as possible, the overall atheistic appeal is quite important. In our group discussions, many of use recounted apps used in the past that had been deleted due to their clunky and unappealing look, as much as for their usefulness. The design will also be imperative in helping us stand out from any competitors with a similar product. 
+App Publication and dissemination
+
+This goal focuses on uploading the app to the relevant online platforms that allow members of the public to download it and all necessary steps involved. It will also need to be formatted in such a way that it can be used on multiple popular platforms. For instance, when attempting to make this app available on IOS, we will need to follow the appropriate steps to use the App Store. These involve but are not limited to ensuring our app meets Apple Store’s guidelines, creating an Apple developer program account and uploading all needed code and metadata. 
+
+### Awareness and Marketing 
+
+As previously mentioned, our aim depends on people downloading the app and using it. To do that, we require a strong marketing campaign that can raise awareness for what our project can offer the public. This campaign will have both traditional and digital marketing elements. Our crack marketing outreach team will first use digital methods to advertise online through the setting up of multiple social media accounts and a website. When we have the financial capability, we will also use more conventional methods to advertise such as billboards and radio commercials aimed at drivers. 
+
+This goal also includes looking to secure external backers who would be interested in supporting or raising awareness for our project. These groups would vary from charitable organisations with similar aims as ours, to potentially government sponsored imitative which can financially cover our marketing costs. 
+
+### Breaking into mainstream use  
+
+Our final and perhaps loftiest goal is to increase our apps use to such a rate in that we can work with major organisations to achieve long term use and popularity. This goal focuses on increasing the apps use from its initial breakout phase, and ensuring it maintains its use after it has been downloaded. This goal is hard to define as it is in our final step and will most likely change with time. However it could include reaching out to local legislators and working to see if this app could be involved in changes to laws regarding the use of phones will driving. Additionally, to keep users incentivised we could work with local and national businesses to develop a financial incentive program that can be used if a person is a regular user of the app. For example, this could be a small discount on petrol for a user who has consistently utilised the app while driving. 
+
 ## 5.Plans and progress
 
+### The Plan
+
+As our project is quite large, for the convenience of understanding it we have broken down our plan into multiple parts to make clear what our app will actually do, as well as elaborate on achieving our aims. 
+
+#### What kind of software will we use?
+
+As previously mentioned, the tool we select to build Clear Drive will need to meet a number of criteria for us to consider it. As many of us in the team do not come from IT backgrounds, and none of us have built an app before, it will need to have either have a clear instruction manual, or be simple to use. As the platform will also be used in the future to develop the app later into more complex functions, it should also be advanced enough to allow a broad range of ongoing changes. This rules out smaller, less tested tools, that do not have resource support or background documentation for larger projects.  Finally, as building the app will be our first step and likely to be done without investment backing, the platform we choose will need to be cost effective for sustained use. 
+
+One platform that our team considered using was Kony Mobile Platform. Kony Mobile Platform is a cloud based digital application that can be used to develop apps across multiple platforms with relatively little coding experience. Kony was named the winner in CTIA’s MOBIT’s awards in the Mobile applications and development category for the capabilities it offers people from non-coding backgrounds. Kony also offers a range of other benefits, such as allowing users to access and build on pre-existing apps. Kony also offers graphical interface to build the mobile user interface with animations, layering and other features. The company claims that MobileFabric reduces development time by more than 65%. Reviews of the platform also state that Kony “offers ideal app development solutions for companies that are into complex and rapid application development.” 
+
+Based on this research into this platform, Kony Mobile platform satisfies several of our key critera, for its accessibility, versatility and established brand. The only drawback our team could find is the lack of clear pricing information for the platform. 
+
+Another platform to build clear drive on that our team was considering is Appery.io. Appery is also a cloud based development platform that provides a range of features Kony seems to lack. Appery provides integrated visual design, development, deployment, and integration services in one location. Using just one platform such as Appery would greatly benefit our team when building the App. Appery also develops apps across multiple platforms including IOS and Android, and is extremely user friendly in terms of skill level required. Use of the platform also comes with tutorials and guidelines to learn the basics, as well as significant support from a customer service team. 
+
+Reviews of Appery also note that it can generate code in multiple languages and frameworks according to their requirements such as HTML5, Apache Cordova, jQuery Mobile, JavaScript, Bootstrap, and Angular JS. Pricing of the tool is also straightforward and easy to access, with a team plan costing $135 US a month, along with a free trial period. 
+
+Appery also fulfils a number of our key criteria for what we are looking for in a platform. At this point in time, our team is still undecided on the best of these platforms to use. When we can get a quote from Kony as to its pricing, and when we have established a firm budgeting plan we can proceed to make a decision. 
+
+#### What will the App look like when completed? 
+
+It is highly likely that in time the app that we are developing will change in its function and design. But this section aims to clarify what our vision now would see our app realised as.
+
+The app itself will be a free, downloadable piece of software that can be accessed through major platforms such as ITunes. It will be compatible with as many devices and software configurations as possible, giving us an expanded target market. We plan to bring it to both Android and IOS. 
+
+While the app will serve a very large role when used, the ability of the user to interact with it is designed to be minimal.  This is so we can prevent complicated menu options putting off the less techs savvy users, while also keeping the background code fairly simple. As previously mentioned in our aims, the visual design should revolve around a modernistic yes minimalistic feel, with a layout to impress upon users the reliability of the app. These goals will be achieved in a number of ways, including the use of darker mediums in colour design, and selective use of professional fonts. 
+
+The app will have several options in its actual menu. These will allow the user to turn it on, turn it off, and edit its auto-detection software that assesses when a user is driving. Beyond that, a further section for adding the ability to auto reply to incoming messages will also be integrated into the apps menu.  
+
+#### How will we launch this app for use? 
+
+Further breakdown of aim - more detailed description and list of what needs to be done to put the app on IOS or other platforms and challenges faced.
+
+After our app has been created, the next step is to host it on a platform from which user can download it. Ideally, our team would like to see this app brought to multiple platforms; however we plan to start with IOS. This means using the app store, a site containing over 2.2 million applications globally, and an excellent starting platform to launch from. 
+
+In order for Apple and the app store to approve and support our app, there are a number of processes and steps that must be adhered to. 
+Firstly, we must ensure that our app meets all Apple’s App store Guidelines. After examining the Guidelines (https://developer.apple.com/app-store/review/guidelines/) the team anticipates no problems in this area, as our app is free of objectionable content, and does not infringe upon intellectual property. 
+
+Next, our team must register for the Apple Developer program, which will allow us to upload the app while also giving us important information regarding analytics of the app, and providing access to Beta testing. Also needed to upload the app is an ITunes Connect Account. Largely used for management of apps already published, the account is a step mandated by Apple in order to upload to the app store. 
+
+After we have completed all necessary steps to be able to upload, more information is needed around the advertisement and presentation of the app itself on the store. We will need to develop a visually appealing Icon, that stands out to people browsing the app store. Along with this, we will need a series of screenshots from the app, and a summary of what the app does. 
+
+Once all necessary information has been supplied, the app will need to be uploaded to apple servers in preparation for its launch. We anticipate this being done on a platform such as Xcode or Application Loader, which are built partly for this purpose. Using these programs, our app’s code will be sent through our iTunes connect account to Apple servers. 
+
+The final step of this process is to submit the app for review with Apple, which ensures that the app meets its guidelines and it suitable for the app store. The review process typically takes anywhere from 1-3 days, but once passed will enable us to release the app for public distribution. 
+
+#### How will people learn about our app? 
+
+When our app has been developed, and has been launched onto a viable platform, our next step will be working on a cohesive marketing campaign to attract users. 
+
+As our target audience are all Australian drivers, our marketing techniques can vary enormously due to the multitude of demographics our market contains. 
+
+Initially, we plan to use a series of online marketing techniques that are low cost, and can reach large numbers of people relatively easily. These involve establishing our app as a brand, and promoting it via the creation of social media sites on platforms such as Facebook and Instagram, and creating a website using such resources as Github. 
+
+There are several advantages of using online social media platforms as our initial point of advertising. Firstly, they appeal to our limited budget, and the costs of marketing or buying advertisements are upfront. According to marketing firm ThriveHub, the average cost per thousand views for Instagram in 2019, is $6.70 US. 
+
+As such sites also collect extensive lists of demographic and geographic data; we can work to easily target our audience within these platforms. For example, we can steer away from the younger adult and teen demographics of ages 14 – 24, as statistically these age groups are far less likely to be driving than others. This will allow us to not expend limited resources advertising to audiences that cannot use our product. 
+
+Overall, our team hopes to use a social media aspect and online presence to springboard our project into popularity. We hope that this popularity will see more app downloads and uses while we secure funding for more traditional forms of marketing. 
+
+Texting while driving has gained considerable negative attention as time goes on, as awareness around its dangers has increased. This is has been largely due to governmental and charitable marketing campaigns, using platforms such as television advertisements. In 2013, the NSW government launched its ‘Get Your Hand Off IT’ campaign which was renewed in 2017. It involved a series of TV and radio advertisements to stop texting while driving. Since then, multiple other state governments have run similar initiatives, often working with small non-profit foundations. 
+
+It is our hope that when we have established our product as a useful method to prevent texting while driving, and have started to attract users, we will be able to pitch to such organisations about working with us. This may include securing funding from certain governmental groups for marketing purposes, or even app expansion. 
+
+When such funding is secured, we plan to turn our attention to alternative methods of advertising. These may include the implementation of billboards over major highways, or radio advertisements on channels frequented by drivers. While typically far more expensive, such marketing techniques have the potential to read thousands of new users for our app. 
+
+#### What’s in our future? 
+
+When our Clear Drive has been successfully developed, launched, and is being downloaded, our teams attention will turn to the future. Other than troubleshooting any problems or bugs and continuing marketing campaigns, we hope to be largely free to go in a number of directions. These future goals all largely aim as increasing App use, and working towards achieving our overall goal of safer roads. It is important to note that these ideas will most likely change with time, as our vision and methods of achieving our goals shift or change. 
+
+As previously mentioned, distracted driving has become an increasingly large issue in Australia, and more and more steps are being made to bring it to the forefront of public awareness. As governments, charities and businesses all increase their spending and efforts to decrease distracted driving, it is our hope Clear Drive can make use of such campaigns. 
+
+In 2015, Victoria launched a four year road safety plan ‘Towards Zero,’ which hopes to reduce road fatalities by 20% over 5 years. A major focus of this initiative is combating distracted driving, and investing in raising awareness amongst drivers, while also encouraging the use of technology to combat it. This plan, which is spearheaded by several major local branches of government including Vic Police and TAC, plans to spend over a billion dollars improving road safety. 
+
+Providing Clear Drive can present itself as a viable and successful app in reducing road deaths, such initiatives as Towards Zero could prove highly beneficial in a multitude of ways. Firstly, we can pitch to the Victorian Government to invest in our platform, considering their goals align with ours. This would give us a financial infusion needed to both develop Clear Drive further, while continuing our marketing campaign. Secondly, we can appeal for Towards Zero to advertise our app in their own advertising and media. The Towards Zero sites refers how it will ‘trial automated and connected vehicle technology in Victoria’ to reduce road deaths. As such an app, we hope to potentially partner with the Toward Zero initiative to increase our own number of downloads. 
+
+We also hope to increase Clear Drives effectiveness by investing and developing its technological capabilities. Currently, our plan restricts Clear Drives to being used when a user of the app switches it on, on their mobile device. As enabling and then disabling an app every time a person drives can be cumbersome and time consuming, we envision this resulting is less and less use as time goes on after the initial download. 
+
+Our team has developed two potential remedies to this problem. Firstly, incorporating Clear Drive to use GPS, or Smart Phones Magnetometer’s to automatically detect when an individual is driving. When Clear Drive can detect such rapid movement, it would then automatically enable itself, and then disable itself when such movement has stopped or slowed. This would obviously have drawbacks for passengers of cars, or users travelling on trains, trams or busses. The second option addresses this problem, but most likely be harder to develop.
+
+Our second option will not rely on the phone itself to detect movement, but on the Bluetooth function. If we can configure Clear Drive to recognise and enable itself when the mobile device is paired with a nearby car, its function will become automatic. The main drawbacks of this at the moment however, are that not all cars use pairing technology, and not all drivers use the pairing technology of their cars. 
+
+Whatever option we do decide to pursue, our goals for the future are focused on developing Clear Drive by securing more support, and increasing its technological ability.  
+
+#### How we are different 
+
+As awareness around distracted driving increases, and the use of mobile phone technology increases, there has naturally been a range of apps similar to ClearDrive developed. Many of these apps have similar goals and processes to our own, with the aim of stopping distracted driving by limiting phone activity. However, we believe that Clear Drive stands out in a number of different ways from these others apps, both in function, and in accessibility. 
+
+The majority of apps that are aimed to stop distracted driving are targeted towards the parents of teenagers who are looking to protect their child from injury. As such, they market themselves to a smaller demographic, and the features offered are not beneficial to the average driver. Such apps include Canary, an app that while preventing phone use while driving, also notifies the parent if the child exceeds a speed limit, or ventures off an established route. While perhaps useful for specific situations, Canary acts more as a surveillance tracker than a preventative app designed to reduce road accidents. 
+
+Another key difference with ClearDrive, is that it is based around and will be marketed towards Australian users and devices. Many of our competitor apps were built and distributed for US or overseas use, such as CellControl, TextArrest, DriveScribe and Live2Txt. As such, many of these applications are hard to access, download or use overseas to their native country. 
+Perhaps our main competing technology, is Perth based company TextStopper, which uses US adapted technology and markets it to Australian companies. TextStopper comes as an identification device and phone based app, that can be attached to each car to hide all notifications bar outgoing hands free calls. According to a 2018 RACV report, TextStopper is being used currently by Red Bull and Coca Cola cars to prevent accidents caused by distracted driving. 
+
+While TextStopper has an established product and user base, ClearDrive when developed will have several important advantages. For installation, TextStopper must be manually installed in each car, and cannot be simply downloaded like ClearDrive. Additionally, TextStopper must be bought and picked up from one of the company’s offices, based only in the ACT. ClearDrive will also be free for download and use for all users, while TextDrive costs an advertised price of $249 for each purchase. 
+Because of its price and accessibility, it is clear that TextStopper is marketed towards larger companies and businesses. Whereas ClearDrive will be developed for use of all Australian drivers, and free to download. 
+
 ## 6.Roles
+
+### Product and marketing manager – Tim
+As Product manager, Tim will work to develop and oversee the growth of Clear Drive itself. This will include working closely with the lead designer and engineer in the apps creation, as well as conducting market research, app testing, and identifying how our product will thrive on the market. Within the role of marketing manager, Tim will also be in charge of all marketing and all marketing activities, these include sales, customer support and our planned advertising campaigns. Tim will also represent the company to shareholders and investors in internal or external meetings.
+
+#### Lead Designer and engineer– Rob 
+
+Rob’s role as Lead Designer and engineer will include the actual development of the app itself. Working closely with the Product manager, Rob will take the planned ideas and turn them into a marketable product. His role will include him writing code, utilising the listed platforms and bringing together both the front end and back end pieces to ensure Clear Drive functions properly, and looks good. 
+
+#### Lead Accountant and project coordinator – Gen 
+
+Our lead accountant Gen, will be responsible for drawing up and managing our budgetary needs. She will ensure each part of the project is within our monetary capacity, and manage each person and departments financial needs. As project coordinator, Gen will also be in charge of hosting daily catch ups and weekly team meetings, where each team member will discuss their progress and plans. Gen will oversee and coordinate such events, and help direct resources to each team as needed from others. 
+
+### External IT Specialist - Sebastian
+
+As our external IT specialist, Sebastian will ensure that when Clear Drive is hosted on other platforms such as the App Store, it is well within Apples Guidelines and there will be no problems. He will oversee step three, which involves working to disseminate the app across multiple platforms. By researching and planning out how this is done, he will ensure Clear Drive faces no issues being uploaded to public platforms to be downloaded. 
 
 ## 7.Scope and limits
 
 At this stage it is expected that the design of the App will occur over five stages. Using the Agile software development approach to develop the App and feedback received at each of the proposed stages will determine the appropriate changes will determine the priority of the next stages. Agile allows the development of the software to go through adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change. Further stages and features can be added to the Apps as updates. The minimum viable product is the first stage and is an app with just enough features to satisfy early customers and provide feedback for future product development. The stages are:
+
   1.	Focusing on an App on one platform, being Apple’s iOS and having a simple App that can turn off all phone notifications in one touch which will need to be activated by the App user before they commence driving. The App user can also create a simple message reply that can be automatically set to respond to messages. For example, the automatic message reply can state, ‘I am currently driving and will get back to you shortly’.  The App user can readily reactivate the notifications with two number PIN. Two numbers were selected as it is less likely (compared to one touch activation) to accidently turn on and distract the driver and is quick and easy to turn back on. The benefits of this are that the user can deactivate all notifications in one touch rather than going to settings and they can quickly reactivate the notifications at the end of the journey. They can also easily set up an automatic message reply for when notifications are turned off. 
+  
   2.	Still on the iOS platform, the App will add GPS functionality where the App user can set the App to automatically turn off notifications and enable automatic messaging replies once the speed is detected to go over 30km/h. The App will turn on notifications and turn off automatic messages once a speed of less than 10km/h is sustained for more than five consecutive minutes. This prevents the App from activating whilst stationary in lights or traffic and 10km/h is considered higher than normal walking pace so will mimic a person walking away from their parked car. 
+  
   3.	The third stage is still on the iOS platform, the App will also add maps so that it can differentiate between a person in a car and a person using public transport. Where the App detects that the device is travelling along a public transport corridor it will automatically disengage and allow notifications through. It is proposed that it will do this by detecting if the device is travelling along a train line or following a bus or tram line for more than four kilometres. Alternatively, as stated in the first stage the App user can override the App and turn on notifications by simply entering the two number PIN.
+  
   4.	The fourth stage is still on the iOS platform and the App will use Bluetooth to communicate with the vehicle and know which device to turn off the notifications as it is likely (but not always which is why the above stages have been proposed) to be the driver’s device which is the reason that we want to limit distractions. The App requires the App user to set up their vehicle’s Bluetooth system through it on initial pairing. The App can then be set up to vary the level of notifications that come through the vehicle’s Bluetooth system for example all messaging notifications can be blocked but calls can be let through. Also, once the device is paired to vehicle it will activate the App and deactivate it once the Bluetooth signal is turned off by the vehicle turning off. 
+  
   5.	The fifth stage, is to implement the App on the Android platform. This proposed to be done by incorporating each of the four stages above or any other stage identified and implemented by the Agile process during the development of the iOS App. The preference is to start on the Android platform as the second largest market share in Australia after iOS. 
 
 ## 8.Tools and technologies
@@ -283,9 +455,7 @@ Building the tasks into a Gant Chart in the project plan provided oversight task
 
 ## 13.Skills and jobs
 
-## 14.Feedback
-
-## 15.Group reflection
+## 14.Group reflection
 
 
 
