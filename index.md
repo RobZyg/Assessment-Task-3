@@ -187,11 +187,46 @@ The diversity of backgrounds and personality types in this group make for a succ
 
 As programming of Clear Drive progresses, it will be subject to comprehensive testing at every stage of development from discovery, design, build, launch and development of later versions. 
 
-<img src= "https://raw.githubusercontent.com/RobZyg/Assessment-Task-3/master/Testing.jpg" >
+<img src= "https://raw.githubusercontent.com/RobZyg/Assessment-Task-3/master/Testing.jpg">
+User testing, Bring customers into every step of the dev process, viewed on 16 August 2019, at 
+https://www.usertesting.com/platform/mobile-application-testing
+
+A marketing consultant will be engaged in the discovery phase to help understand our customers, their expectations and how to make them choose Clear Drive. This will identify our target users and their attitudes, likes, dislikes and frustrations they may have had using similar apps.
+
+The findings from the discovery phase will feed into building specifications in the design phase. They will help guide decisions on the best features to include and prioritise development stages. Test users will be engaged through the marketing consultant to provide feedback and validation of Clear Drives design, to ensure it will provide a good user experience. Feedback collected at this stage will be integrated into the design of the prototype to ensure good user experiences.
+
+After the prototype is built it will be extensively tested by Team Winterfell (and their friends, family) and other users from outside the team will be engaged by the consultant from a range of demographics, to test the app. This testing will be to assess the ease of navigation and use, to identify any bugs, performance issues or user experience issues and test Clear Drive on as many devices as possible (including the oldest to newest models). Users will be videoed using the app in real-life situations and feedback on any usability issues or dislikes will be gathered, analysed. 
+
+Clear Drive will also be tested to ensure it is fully accessible and compliant with legislative requirements within operating jurisdictions.  Necessary adjustments will be made to fix any issues identified, which may include tweaking, adding or removing any features.
+
+The research carried out in the early stages of development will be used to help develop a marketing campaign to attract potential customers in the launch phase. 
+
+Feedback and questions to Service and Support will be monitored to ensure that any issues identified when it used more broadly, are quickly addressed. Competitors and trends will also be monitored to identify features that would improve the app and these, where possible, will be included in later iterations to ensure Clear Drive remains the app of choice in a competitive in a market. 
 
 ## 10.Timeframe
 
+In order to develop the best mobile app we have invested significant time into mapping out each step of the development of our Clear Drive app in order to identify crucial milestones and interdependencies.
+
+The detailed project Gant Chart maps out our planning and processes, from establishing our team, initial idea and research, planning, identification of specifications, app design, build, testing and deployment, while simultaneously developing a marketing strategy, engaging investors and a deployment partner.
+
+<img src= "https://raw.githubusercontent.com/RobZyg/Assessment-Task-3/master/Timeframes.jpg">
+
 ## 11.Risks
+
+### Distracted Driver Risks
+
+To increase the likelihood of success, we have actively identified and engaged with risk to reduce the possibility and consequence of adverse effects and to optimise the available opportunities. During our research phase into the threats to distracted drivers we adopted the bow tie model to identify and assess the threats, preventative controls, the hazard and the consequences if left uncontrolled.
+
+<img src= "https://raw.githubusercontent.com/RobZyg/Assessment-Task-3/master/risks1.jpg">
+Bowtie pro, How does BowTie Pro Simplify Risk Management?, viewed on 10 August 2019 at 
+https://customers.bowtiepro.com/KnowledgeBase/simpleRM/
+
+The image below illustrates the threats for distracted drivers, the hazard and the consequences. 
+
+<img src= "https://raw.githubusercontent.com/RobZyg/Assessment-Task-3/master/risks2.jpg"
+CGE Academy,Threats png viewed on 10 August 2019 at https://www.cgerisk.com/knowledgebase/images/d/d7/Threats.png
+CGE Academy, Consequences png viewed on 10 August 2019 at https://www.cgerisk.com/knowledgebase/images/d/d2/Consequences.png
+
 
 ## 12.Group processes and communnications
 
