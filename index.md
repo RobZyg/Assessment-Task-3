@@ -240,14 +240,18 @@ By first identifying the threats, hazards and consequences we have then put in p
 
 We have identified six main risks to the success of our project and the preventative and recovery controls to mitigate or remove the risks.
 
-Threat | Preventative controls | Hazard	| Recovery controls	| Consequence
---------------|---------------|---------------|---------------|---------------
-Users will not use or do not want app|*	Carry out comprehensive market and user research before development*	Design user friendly app*	Carry out user testing | App is unsuccessful | * Gather feedback * Modify specifications to suit their requirements * Redesign app | App will fail to be adopted and monetised
-
-
-
+<img src= "https://raw.githubusercontent.com/RobZyg/Assessment-Task-3/master/risks3.jpg">
+Lifewire, Priya Viswanathan, Native Apps vs. Web Apps: What Is the Better Choice? Viewed on 7 August 2019 at https://www.lifewire.com/native-apps-vs-web-apps-2373133
+Entrepreneur, Himanshu Sareen, 5 Development Mistakes That Can Destroy Your Mobile App, Viewed on 7 August 2019 at https://www.entrepreneur.com/article/238849
+Mrc, Joe Stangarone, 7 hidden risks of native mobile app development, viewed on 7 August 2019, https://www.mrc-productivity.com/blog/2013/11/7-hiddens-risks-of-native-mobile-app-development/
 
 ## 12.Group processes and communnications
+
+Due to the geographically dispersed nature of our team, communication was initially the most challenging aspect of this project. Strategies were employed to reach and engage as many team members as possible including the use of Discord, email and posting to our groups discussion page to assign tasks. 
+
+Introducing email meant that document sharing could be better facilitated, and team members were all kept up to date with the latest versions. The four active members of our team agreed to log in to Discord at regular assigned times throughout the week, so that we could discuss the project.
+
+Building the tasks into a Gant Chart in the project plan provided oversight task progress and ensured that none were overlooked, and all had an assigned owner. We aimed to finish the project ahead of time so that we were aware of any tasks that had not been completed, leaving us time to follow up with the assigned team member and complete the tasks if needed.
 
 ## 13.Skills and jobs
 
