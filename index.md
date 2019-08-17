@@ -227,6 +227,7 @@ The image below illustrates the threats for distracted drivers, the hazard and t
 CGE Academy,Threats png viewed on 10 August 2019 at https://www.cgerisk.com/knowledgebase/images/d/d7/Threats.png
 CGE Academy, Consequences png viewed on 10 August 2019 at https://www.cgerisk.com/knowledgebase/images/d/d2/Consequences.png
 
+
 The focus of our app is to introduce a preventative control to remove one of the major driver distractions, mobile phones.
 
 ### Drive Clear App Development Risks
@@ -239,6 +240,12 @@ By first identifying the threats, hazards and consequences we have then put in p
 
 We have identified six main risks to the success of our project and the preventative and recovery controls to mitigate or remove the risks.
 
+Threat | Preventative controls | Hazard	| Recovery controls	| Consequence
+--------------|---------------|---------------|---------------|---------------
+Users will not use or do not want app|*	Carry out comprehensive market and user research before development*	Design user friendly app*	Carry out user testing | App is unsuccessful | * Gather feedback * Modify specifications to suit their requirements * Redesign app | App will fail to be adopted and monetised
+
+
+
 
 ## 12.Group processes and communnications
 
@@ -249,41 +256,4 @@ We have identified six main risks to the success of our project and the preventa
 ## 15.Group reflection
 
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RobZyg/Assignement-3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobZyg/Assignement-3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
