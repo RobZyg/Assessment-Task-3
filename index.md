@@ -2,6 +2,8 @@
 
 ## Team Winterfell
 
+## 1. The team 
+
 ### <a href="https://sway.office.com/95J6PEHbirhDgDnL?ref=Link&loc=play">Genevieve</a>
 (please note the hyperlinks to the Assignement 1 websites are each group member's name)
 
@@ -167,7 +169,34 @@ This position involves handling a large number of complaints that have been esca
 
 The diversity of backgrounds and personality types in this group make for a successful team as we can call on our different strengths to carry out the different tasks and assist other group members where needed. Together we bring together a wealth of experience and diverse knowledge. We have varied learning styles with some predominantly visual and other kinaesthetic learners, with plenty of opportunities to apply both learning styles during this project.
 
-## Project Description
+## 2.Project description
+
+## 3.Detailed description
+
+## 4.Aims
+
+## 5.Plans and progress
+
+## 6.Roles
+
+## 7.Scope and limits
+
+## 8.Tools and technologies
+
+## 9.Testing
+
+## 10.Timeframe
+
+## 11.Risks
+
+## 12.Group processes and communnications
+
+## 13.Skills and jobs
+
+## 14.Feedback
+
+## 15.Group reflection
+
 
 ## Welcome to GitHub Pages
 
