@@ -185,6 +185,10 @@ The diversity of backgrounds and personality types in this group make for a succ
 
 ## 9.Testing
 
+As programming of Clear Drive progresses, it will be subject to comprehensive testing at every stage of development from discovery, design, build, launch and development of later versions. 
+
+<img src= "https://raw.githubusercontent.com/RobZyg/Assessment-Task-3/master/Testing.jpg" >
+
 ## 10.Timeframe
 
 ## 11.Risks
