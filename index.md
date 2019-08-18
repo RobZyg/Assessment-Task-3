@@ -455,6 +455,68 @@ Building the tasks into a Gant Chart in the project plan provided oversight task
 
 ## 13.Skills and jobs
 
+### 1.Mobile App Developer 
+
+#### Overview:
+
+We are looking for a qualified, motivated and passionate Mobile App Developer to join our team. You'll have the opportunity to design and build with the latest in mobile technology, ultimately playing an instrumental role in digital transformation. You will be involved in the development of a greenfield product. If you love mobile technology, software development, data, innovation and are interested in make a difference to people’s lives and safety, then this role is for you.
+
+#### What you will bring to the team: 
+
+*	Work alongside the design and engineering team on different layers of the infrastructure, developing our iOS and Android application in an Agile manner 
+*	Participate in design and code reviews; ensuring high quality, organisation and automation 
+*	You’ll work with design and business to brainstorm new ideas to optimise user experience across tablet and mobile devices
+*	Collaborate with the team to determine the best solutions to difficult engineering problems 
+
+#### What you will bring to the team:
+•	Commercial experience developing native iOS and Android applications and are fluent in Swift, or Java and Storyboards. 
+•	Experience with a Reactive Functional programming framework and Xcode + Instruments.
+•	Familiarity with modern Android frameworks and best practices. 
+•	Excellent knowledge of common UI libraries, themes and Apple’s HIG or Google’s Material Design. 
+•	Proficient understanding of code versioning tools, such as Git 
+•	Experience in publishing to the iTunes and Google Play app store
+### 2. CyberSecurity Consultant / Manager	
+#### Overview:
+We are looking for a qualified, motivated and passionate Cybersecurity Consultant, to join our team  You will:      
+•	Be a trusted advisor and lead for delivery of complex operational technology (OT/ IT) cybersecurity and risk consulting that will include governance, risk and compliance reviews
+•	Be fluent in reviewing, recommending and implementing technical security controls, architectures and suitable technologies within  OT environments
+#### What you will bring to the team:
+•	Extensive experience within OT cybersecurity and risk delivery and management for organisations, especially around critical infrastructure
+•	Degree qualification in information technology/security, and /or certifications such as CISSP, CRISC, CISM or other equivalent. 
+•	Sound understanding of global cybersecurity standards and Australian critical infrastructure security frameworks
+•	Strong project management experience and ability to meet deadlines
+•	Solid understanding of digital transformation risk frameworks and landscape
+### 3. iOS Engineer
+#### Overview:
+We are looking for an iOS Engineer who will be responsible for developing the first version (MVP) with key features within the core iOS app. You'll work in a fast-paced environment without room for boredom - we're always solving problems. As a product-oriented team, creatives and UI-sensitives, mindsets and attitude matters as much as your technical skills.
+#### What you will bring to the team:
+•	You'll take ownership of the iOS app development and help us build out our clean, simple and native codebase from scratch. You'll get to build all the core features.
+•	Once we launch, you will help the team analyse data from user behaviour, run experiments and support the app alongside the rest of the team.
+•	Working closely with the Co-founders and team, you will take ownership of the entire iOS App.
+•	You will be responsible for beginning and completing the development of the MVP, then maintaining and developing new features based on feedback from users
+•	Ensure the performance, quality, and responsiveness of the App
+•	Maintain well-documented, reusable, and transferable code.
+•	You have excellent code-debugging skills
+•	Experience shipping at least one iOS app available on the App Store
+•	Able to work autonomously and communicate in English
+•	Write clear, maintainable, highly functional code, and making technical decisions on building the App
+### IT Support Analyst
+#### Overview:
+We are looking for an IT Support Analyst, who will work with the team to provide exceptional technology support to users for a new App. You will provide Service Desk support to users, as well as working to keep the technology systems maintained and running smoothly. You will also offer feedback and suggestions as to how to improve the App and note any issues that arise.
+#### What you will bring to the team:
+•	You will need to have a technical mindset, with fondness for technology, problem solving and providing exceptional customer service. 
+•	Resolving user problems and queries in an effective and timely manner
+•	Coordinating and updating the technology documentation
+•	Providing and maintaining user and team training and documentation
+•	Strong customer service focus
+•	Sound analytical and problem-solving skills
+•	Ability to work as a member of a team
+•	Ability to work without supervision
+•	Good oral and written communication skills
+•	Good organisational skills
+•	You will also have tertiary qualification/s, ideally in Computer Science, Information Science or Solutions Architecture or relevant similar industry experience
+
+
 ## 14.Group reflection
 
 
