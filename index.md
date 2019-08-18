@@ -189,7 +189,7 @@ The career plans have remained static since the last assignment. Based on the se
 
 Data from Labour Insight Jobs, Burning Glass for 1 March 2017 to 28 February 2018 postings for Australia and New Zealand and for Information Technology (IT) occupation
 
-Only Robert and Sebastian share similar careers identified from the Burning Glass data postions.Everyone else have selected different career paths.
+Only Robert and Sebastian share similar careers identified from the Burning Glass data positions. Everyone else have selected different career paths.
 
 ## 2.Project description
 
