@@ -485,8 +485,6 @@ We are looking for a qualified, motivated and passionate Mobile App Developer to
 
 *	Collaborate with the team to determine the best solutions to difficult engineering problems 
 
-#### What you will bring to the team:
-
 *	Commercial experience developing native iOS and Android applications and are fluent in Swift, or Java and Storyboards. 
 
 *	Experience with a Reactive Functional programming framework and Xcode + Instruments.
