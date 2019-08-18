@@ -567,5 +567,12 @@ We are looking for an IT Support Analyst, who will work with the team to provide
 
 ## 14.Group reflection
 
+The following are reflections from each group member:
+
+* I would have to say that how our group worked together has overall been a positive experience although communications have at times been challenging. I found the diverse backgrounds of my team surprising but have enjoyed the diversity of the group and the benefits that their different experience and skills have brought to developing our project. One thing I have learnt about group work is to have a backup plan in case people do not deliver an agreed task, as happened to us in the 2nd assignment. - Genevieve 
+
+*	I found it enjoyable working in the group. It has been a great experience working with people with different backgrounds, however, the evidence of the success is shown by the outcome of the completed assignment. It has been a challenge communicating as we don’t have an opportunity to interact face to face as we are spread over the country and have different commitments. However, having a forum like Discord has been a great benefit as we can communicate at a time that is suitable for each of us and keep up to date with the progress of the Assignments. - Robert
+
+* The largest issue our team faced in this assignment was communication, working from different backgrounds and states it was hard for our team to come together at the same time and discuss ideas for our project. Overall though this assignment was an improvement on our last one, in that we managed to complete most of the work before the assigned deadline. The greatest experience I will take away from this project is to ensure group communication is prioritised, and to start work at an early date to allow plenty of time for completion. - Tim
 
 
