@@ -445,7 +445,7 @@ Lifewire, Priya Viswanathan, Native Apps vs. Web Apps: What Is the Better Choice
 Entrepreneur, Himanshu Sareen, 5 Development Mistakes That Can Destroy Your Mobile App, Viewed on 7 August 2019 at https://www.entrepreneur.com/article/238849
 Mrc, Joe Stangarone, 7 hidden risks of native mobile app development, viewed on 7 August 2019, https://www.mrc-productivity.com/blog/2013/11/7-hiddens-risks-of-native-mobile-app-development/
 
-## 12.Group processes and communnications
+## 12.Group processes and communications
 
 Due to the geographically dispersed nature of our team, communication was initially the most challenging aspect of this project. Strategies were employed to reach and engage as many team members as possible including the use of Discord, email and posting to our groups discussion page to assign tasks. 
 
