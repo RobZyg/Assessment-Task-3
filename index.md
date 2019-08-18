@@ -334,11 +334,11 @@ Because of its price and accessibility, it is clear that TextStopper is marketed
 ### Product and marketing manager – Tim
 As Product manager, Tim will work to develop and oversee the growth of Clear Drive itself. This will include working closely with the lead designer and engineer in the apps creation, as well as conducting market research, app testing, and identifying how our product will thrive on the market. Within the role of marketing manager, Tim will also be in charge of all marketing and all marketing activities, these include sales, customer support and our planned advertising campaigns. Tim will also represent the company to shareholders and investors in internal or external meetings.
 
-#### Lead Designer and engineer– Rob 
+### Lead Designer and engineer – Robert 
 
 Rob’s role as Lead Designer and engineer will include the actual development of the app itself. Working closely with the Product manager, Rob will take the planned ideas and turn them into a marketable product. His role will include him writing code, utilising the listed platforms and bringing together both the front end and back end pieces to ensure Clear Drive functions properly, and looks good. 
 
-#### Lead Accountant and project coordinator – Gen 
+### Lead Accountant and project coordinator – Genevieve
 
 Our lead accountant Gen, will be responsible for drawing up and managing our budgetary needs. She will ensure each part of the project is within our monetary capacity, and manage each person and departments financial needs. As project coordinator, Gen will also be in charge of hosting daily catch ups and weekly team meetings, where each team member will discuss their progress and plans. Gen will oversee and coordinate such events, and help direct resources to each team as needed from others. 
 
